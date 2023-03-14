@@ -1,0 +1,22 @@
+[package]
+name = "cw721-virus"
+version = "0.0.1"
+authors = ["mccallofthewild <mccallofthewild@users.noreply.github.com>"]
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+backtraces = ["cosmwasm-std/backtraces"]
+library = []
+
+[dependencies]
+cosmwasm-std = "1.1"
+cosmwasm-schema = "1.1"
+cw-storage-plus = "0.15.0"
+cw2 = "0.15.0"
+thiserror = "1"
+cw721-base = { version = "0.15", features = ["library"] }
+cw721 = "0.15"
+cw-ics721-bridge = { path = "../cw-ics721-bridge", features = ["library"] }

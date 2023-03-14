@@ -1,0 +1,122 @@
+
+address: juno130457qw40vpgq5s9tjwzp2l7tf4w8ejj9nkdhu6nm6kes20kxkpqwah4p4
+contract_info:
+  admin: juno1qv2vjfx78ex83vgazvf58w5kjutvh6zmxff7lz
+  code_id: "386"
+  created:
+    block_height: "270600"
+    tx_index: "51891"
+  creator: juno1qv2vjfx78ex83vgazvf58w5kjutvh6zmxff7lz
+  extension: null
+  ibc_port_id: ""
+  label: upitck-test-01
+address: juno14e6rdkgr4x5w2f5xj9z9mslrl4lezyt056zgua3kq5kg0phzcfwsvzszfw
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "302077"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1h3x3hlfn8t3jgqw2sfwlapmr642rd9wyzx9vyjap82xzrd455puq6kqjun
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "302135"
+    tx_index: "302097"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1azttgwqrnfggtpwqjn5e6hpkcjaytr0k55d5tnu00qy7g8z4rmvqt42rkf
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "302343"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1qra3ycxwhnx3067snszl7nmxugluy03uasfl2zu7cd7t85pr06aqldz2c2
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "302408"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1adx9zgclhnu6vrmyh0ng82d4w5d4usld8rpehjdx49af53zglgjq0un7zr
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "302799"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1pwwtg70n38fz0hv9rnkwq5p7nxjxy39gq6w5glvhla894cynu0vq2fudar
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "335504"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno175hwtyer4075jnekh6xmelga6mzhj8n9tlnnwuujpaa23ulmx77s37nmv4
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "336299"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1rk0zrcjxvvrama68jcm8maeeehr9z7ln6rjmhw02kwztctus67zqwlxc39
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "336761"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno1zk6ryvvc0ymj5dmedg38qsayhg93mwaxg2xh77frnc8fda6m4wsqjj628d
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "337465"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721
+address: juno19gumnz9f2we022mkauae3v29jkyf0e5mqwy8ex8p9klav7ntwxfq8wjrcv
+contract_info:
+  admin: ""
+  code_id: "386"
+  created:
+    block_height: "338180"
+    tx_index: "0"
+  creator: juno1stv6sk0mvku34fj2mqrlyru6683866n306mfv52tlugtl322zmks26kg7a
+  extension: null
+  ibc_port_id: ""
+  label: ics-721 debt-voucher cw-721

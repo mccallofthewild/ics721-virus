@@ -20,11 +20,22 @@ const {
   generateMnemonic,
   osmosis: oldOsmo,
   signingCosmWasmClient,
-  wasmd,
+  wasmd: oldWasmd,
   setup,
 } = testutils;
 
-const osmosis = { ...oldOsmo, minFee: "0.025uosmo" };
+const osmosis = {
+  ...oldOsmo,
+  minFee: "0.025uosmo",
+  // minFee: "0.25uosmo",
+  // blockTime: oldOsmo.blockTime * 5,
+};
+
+const wasmd = {
+  ...oldWasmd,
+  // blockTime: oldWasmd.blockTime * 5,
+  // minFee: "0.25ucosm",
+};
 
 export const MNEMONIC =
   "harsh adult scrub stadium solution impulse company agree tomorrow poem dirt innocent coyote slight nice digital scissors cool pact person item moon double wagon";

@@ -13,6 +13,9 @@ docker run --rm -v "$(pwd)":/code --platform linux/amd64 \
 	--mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
 	cosmwasm/workspace-optimizer:0.12.11
 
+# try to clear all the old wasm files
+rm -rf ./ts-relayer-tests/internal
+
 mkdir -p ./ts-relayer-tests/internal
 cp ./artifacts/*.wasm ./ts-relayer-tests/internal
 cp ./external-wasms/*.wasm ./ts-relayer-tests/internal
