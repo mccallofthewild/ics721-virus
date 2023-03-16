@@ -4,6 +4,8 @@
 # Text file backups
 **/*.rs.bk
 
+**/**.txs.json
+
 # Build results
 **/target/
 
